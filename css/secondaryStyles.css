@@ -1,0 +1,228 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#aboutInfo {
+	width: 944px;
+	height: 100%;;
+	margin: 0 auto;
+	padding: 0px 50px 0px 0px;
+}
+
+/*#decoText {
+	float: left;
+	width: 296px;
+	height: 205px;
+	margin: 70px 0px 0px 0px;
+	padding:  0px 0px 0px 0px;
+	text-indent: -9999px;
+	background: url(../media/images/about/decoText.png) no-repeat; 
+}*/
+
+#infoText {
+	width: 944px;
+	height: 100%;
+	margin: 20px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+#backgroundInfo h2, #communication h2, #clients h2 {
+	font-size: 60px;
+	color: #525E6B;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: -5px;
+}
+
+#infoText p {
+	width: 460px;
+	margin: 0px 0px 25px 5px;
+	padding: 0px 0px 0px 0px;
+	font-size: 14px;
+	line-height: 20px;
+	color: #343a40;
+}
+
+#emphasized {
+	font-weight: 900;
+}
+
+#communication {
+	width: 100%;
+	height: 100%;
+	margin: 50px 0px 0px 0px;
+	padding: 0px;
+}
+
+#communication h4 {
+	margin: 0px 0px 15px 5px;
+	padding: 0px 0px 0px 0px;
+	font-size: 15px;
+	color: #343a40;
+}
+
+#communication ul {
+	margin: 0px 0px 15px 5px;
+	padding: 0px 0px 0px 0px;
+	color: #343a40;	
+}
+
+#communication li {
+	margin: 0px 10px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-size: 14px;
+	line-height: 20px;
+	display: inline;
+}
+
+#resume {
+	width: 210px;
+	height: 44px;
+	margin: 0px;	
+	padding: 12px 22px 13px 0px;
+}
+
+#resume a {
+	
+	margin: 0px 0px 0px 0px;
+	padding: 12px 22px 13px 24px;
+	text-transform: uppercase;
+	font-size: 13px;
+	color: #fff;		
+	background:url(../media/images/about/resumeBtn.png) no-repeat;
+}
+
+#social {
+	width: 270px;
+	height: 86px;
+	margin: 0px;	
+	padding: 0px 0px 0px 0px;	
+}
+
+#social ul {
+	
+	list-style:none;
+	
+}
+
+#social li {
+ 	width: 86px;
+	height: 86px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	display: inline;
+}
+
+
+#clients {
+	margin: 30px 0px 60px 0px;
+}
+
+#clients ul {
+	width: 370px;
+	margin: 0px 0px 15px 5px;
+	padding: 0px 0px 0px 0px;
+	list-style: none;
+}
+
+#clients li {
+	margin: 0px 8px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	display: inline;
+}
+
+/*Contact Page */
+
+#contactInfo {
+	width: 535px;
+	height: 410px;
+	margin: 60px 0px 60px 0px;
+	letter-spacing: -1px;
+	padding: 0px 0px 0px 0px;
+	line-height: 48px;
+}
+
+#contactInfo h2 {
+	font-size: 45px;
+	color: #292e31;
+	text-transform: uppercase;
+	margin: 0px;
+	padding: 0px;
+}
+
+#contactInfo label {
+	font-size: 50px;
+	color: #5f6f7f;
+	margin: 0px 0px 0px 0px;
+	letter-spacing: 6px;
+	padding: 0px;
+}
+
+#contactInfo address {
+	font-size: 24px;
+	color: #5f6f7f;
+	text-transform: uppercase;
+	margin: -20px 0px 0px 0px;
+	font-style: normal;
+	padding: 0px;
+}
+
+#contactInfo p {
+	font-size: 18px;
+	color: #76b7d8;
+	margin: -20px 0px 0px 0px;
+	padding: 0px;
+	font-style: normal;
+	background:url(../media/images/arrow.png) no-repeat 260px 20px;
+}
+
+
+/*footer */
+
+#bottomContainer {
+	
+	background: #030207;
+}
+
+#footer {
+	width: 100%;
+	height: 140px;	
+	margin: 0px;
+	background: url(../media/images/footer_bg.jpg) repeat-x;
+	background-color: #030207;
+}
+
+
+#subInfo {
+	width: 350px;
+	height: 70px;
+	margin: 0px 0px 0px 50px;
+	padding: 30px 0px 0px 0px;
+}
+
+#subInfo ul {
+	list-style: none;
+	margin: 0px 0px 10px 0px;
+	font-size: 12px;
+}
+
+#subInfo li {
+	margin: 0px 8px 0px 0px;
+	display: inline;
+}
+
+#subInfo label {
+	color: #fff;
+	
+	font-size: 12px;
+}
+
+#subInfo address {
+	font-size: 12px;
+	font-style: normal;
+}
+
+#subInfo p {
+	font-size: 12px;
+}

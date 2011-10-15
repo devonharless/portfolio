@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+	<project id="1" projectTitle="Cisco Collaboration Tool">
+		
+		<technologies>
+			<technology>XHTML</technology>
+			<technology>CSS</technology>
+			<technology>jQuery</technology>		
+		</technologies>
+		
+		<url>
+			<![CDATA[ http://www.ciscowebtools.com/index/login.aspx ]]>
+		</url>
+		
+		<projectImages>
+			<image>media/images/projects/project1/preview1.png</image>
+			<image>media/images/projects/project1/preview2.png</image>
+			<image>media/images/projects/project1/preview3.png</image>
+		</projectImages>
+		
+		<description>
+			<![CDATA[ The Cisco® Collaboration Index Tool is a survey designed to aid customers in understanding the strengths and weaknesses in their organization’s collaboration capabilities.  I was responsible for jQuery and HTML/CSS adjustments to make the design universal when rendered in multiple languages.    ]]>
+		</description>
+
+	</project>
+	
+	<project id="2" projectTitle="AIPD Touchscreen">
+		
+		<technologies>
+			<technology>Photoshop</technology>
+			<technology>Flash</technology>
+			<technology>Aftereffects</technology>
+		</technologies>
+		
+		<url>
+			
+		</url>
+		
+		<projectImages>
+			<image>media/images/projects/project2/preview1.png</image>
+			<image>media/images/projects/project2/preview2.png</image>
+			<image>media/images/projects/project2/preview3.png</image>
+		</projectImages>
+		
+		<description>
+			<![CDATA[ The touchscreen is featured at The Art Insitute of Portland.  The subject matter focuses on student work and is organized by three disciplines: design, interface, and development.  I was responsible for designing the 'Interface World', along with several UI components.  My design partners in crime : Damir Tuka (design and development) and AJ Austinson (design and animation)]]>
+		</description>
+
+	</project>
+	
+	<project id="3" projectTitle="Intel Retail Edge Program">
+		
+		<technologies>
+			<technology>Photoshop</technology>
+			<technology>Flash</technology>
+			<technology>XML</technology>
+		</technologies>
+		
+		<url>
+			<![CDATA[ https://retailedge.intel.com/login.aspx ]]>
+		</url>
+		
+		<projectImages>
+			<image>media/images/projects/project3/preview1.png</image>
+			<image>media/images/projects/project3/preview2.png</image>
+			<image>media/images/projects/project3/preview3.png</image>
+		</projectImages>
+		
+		<description>
+			<![CDATA[ The Intel Retail Edge Program is a training and rewards program for retail sales professionals to learn about Intel technologies.  Monthly, I have been part of a team responsible for designing and developing dynamically interesting Flash solutions.  Some months I help the team by designing for the content, other months I help develop in Flash.]]>
+		</description>
+
+	</project>
+	
+	<project id="4" projectTitle="Go Asus Campaign">
+		
+		<technologies>
+			<technology>XHTML</technology>
+			<technology>CSS</technology>
+			<technology>jQuery</technology>
+		</technologies>
+		
+		<url>
+			<![CDATA[ http://go-asus.com/game/index.html ]]>
+		</url>
+		
+		<projectImages>
+			<image>media/images/projects/project4/preview1.png</image>
+			<image>media/images/projects/project4/preview2.png</image>
+			<image>media/images/projects/project4/preview3.png</image>
+		</projectImages>
+		
+		<description>
+			<![CDATA[ The Go Asus site is focused on promoting three particular series of ASUS laptops and their Intel Core processor counterparts.  I was part of a team that focused on delivering a visual interactive product that would be eye-catching to the viewer.  Specifically, I worked on implementing the front-end design and animating the content with jQuery.  ]]>
+		</description>
+
+	</project>
+	
+	
+	<project id="5" projectTitle="HP Printing Overview">
+		
+		<technologies>
+			<technology>Flash</technology>
+			<technology>Actionscript 3.0</technology>
+			<technology>OOP Approach</technology>
+			<technology>XML</technology>
+		</technologies>
+		
+		<url>
+			<![CDATA[ http://www.staples.com/office/supplies/StaplesCategoryDisplay?storeId=10001&identifier=SH40&catalogIdentifier=SH40&cm_ven=Glamour&cm_ite=hp&nMXID=1141&nVID=7240393&cpncode=8b4a5eb9-2d38-4578-b33e-687a953034c8 ]]>
+		</url>
+		
+		<projectImages>
+			<image>media/images/projects/project5/preview1.png</image>
+			<image>media/images/projects/project5/preview2.png</image>
+			<image>media/images/projects/project5/preview3.png</image>
+		</projectImages>
+		
+		<description>
+			<![CDATA[ The HP Printing Overview is used to aid potential HP customers to choose a printer that suits their needs.  The highlight filter feature allows users to pinpoint a product based on their checked requirements. A development requirement was that almost 100% of the interface could be easily changed through simple adjustments in the XML.]]>
+		</description>
+
+	</project>
+	
+	
+	<project id="6" projectTitle="American Energy">
+		
+		<technologies>
+			<technology>Photoshop</technology>
+		</technologies>
+		
+		<url>
+			
+		</url>
+		
+		<projectImages>
+			<image>media/images/projects/project6/preview1.png</image>
+			<image>media/images/projects/project6/preview2.png</image>
+			<image>media/images/projects/project6/preview3.png</image>
+		</projectImages>
+		
+		<description>
+			<![CDATA[ American Energy is a freelance client that has given me free reign to design and implement the latest web trends.  I've had a lot of fun particularly working on the user interface and pushing myself to design clean, but engaging, pages.  The site launch will be set in the next few months.  Stay tuned.    ]]>
+		</description>
+
+	</project>
+	
+	<project id="7" projectTitle="Pixotweet">
+		
+		<technologies>
+			<technology>Twitter API</technology>
+			<technology>Flickr API</technology>
+			<technology>XHTML/CSS</technology>
+			<technology>Canvas/HTML5</technology>
+		</technologies>
+		
+		<url>
+			<![CDATA[ http://www.domaniquealicia.com/pixotweet/ ]]>
+		</url>
+		
+		<projectImages>
+			<image>media/images/projects/project7/preview1.png</image>
+			<image>media/images/projects/project7/preview2.png</image>
+			<image>media/images/projects/project7/preview3.png</image>
+		</projectImages>
+		
+		<description>
+			<![CDATA[ This application sorts through one's Twitter feed and uses key words to search for tags in Flickr's photostream. Then the user has the ability to create a collage with those images.  This was a school project that pushed my team to explore the interaction between Twitter and Flickr APIs, and finally, the Canvas HTML5 element.  ]]>
+		</description>
+
+	</project>
+	
+</data>
